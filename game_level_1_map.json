@@ -1,0 +1,460 @@
+{
+  "mapping": [
+    {
+      "originalName": "gamecompleted_mc",
+      "newName": "\u003d#"
+    },
+    {
+      "originalName": "stopEngineHighSound",
+      "newName": "8\""
+    },
+    {
+      "originalName": "rbClapping",
+      "newName": "\u003e#"
+    },
+    {
+      "originalName": "on_key_up",
+      "newName": "\u0026!"
+    },
+    {
+      "originalName": "congratsmc",
+      "newName": " #"
+    },
+    {
+      "originalName": "speedometer_mc",
+      "newName": ",#"
+    },
+    {
+      "originalName": "bikeRotArray",
+      "newName": "1"
+    },
+    {
+      "originalName": "RBEngineHigh",
+      "newName": "\u003c!"
+    },
+    {
+      "originalName": "rbEngineHigh",
+      "newName": "`\""
+    },
+    {
+      "originalName": "crashed_57",
+      "newName": "-\""
+    },
+    {
+      "originalName": "stopEngineRunningSound",
+      "newName": "5#"
+    },
+    {
+      "originalName": "spacekeyForNextLevelListener",
+      "newName": "2\""
+    },
+    {
+      "originalName": "getCollisionPoint",
+      "newName": "\"\""
+    },
+    {
+      "originalName": "removeListeners",
+      "newName": "1#"
+    },
+    {
+      "originalName": "timeRemaining",
+      "newName": ","
+    },
+    {
+      "originalName": "txtCurrentLevelName",
+      "newName": "+#"
+    },
+    {
+      "originalName": "changeBike",
+      "newName": "0#"
+    },
+    {
+      "originalName": "hasBikeStarted",
+      "newName": "%!"
+    },
+    {
+      "originalName": "speedometercu5u5u5opy_3",
+      "newName": "\u0026#"
+    },
+    {
+      "originalName": "crashedSoundChannel",
+      "newName": "?#"
+    },
+    {
+      "originalName": "on_enter_frame",
+      "newName": "4"
+    },
+    {
+      "originalName": "PixelPerfectCollisionDetection",
+      "newName": "]!"
+    },
+    {
+      "originalName": "gotoNextLevel",
+      "newName": "3"
+    },
+    {
+      "originalName": "continueToNextLevelClickedListener",
+      "newName": "!!"
+    },
+    {
+      "originalName": "smoke",
+      "newName": "\u0026\""
+    },
+    {
+      "originalName": "on_key_down",
+      "newName": "+\""
+    },
+    {
+      "originalName": "Smoke",
+      "newName": "\u003d\""
+    },
+    {
+      "originalName": "txtRemTime",
+      "newName": ";#"
+    },
+    {
+      "originalName": "crashedcopy_55",
+      "newName": "2!"
+    },
+    {
+      "originalName": "isEngineSoundHigh",
+      "newName": "\u0027!"
+    },
+    {
+      "originalName": "rbCrashing",
+      "newName": ",\""
+    },
+    {
+      "originalName": "timeElapsed",
+      "newName": "%#"
+    },
+    {
+      "originalName": "movingobstacle_mc",
+      "newName": "3!"
+    },
+    {
+      "originalName": "playEngineHighSound",
+      "newName": "\u003d"
+    },
+    {
+      "originalName": "obstacle_mc",
+      "newName": "^"
+    },
+    {
+      "originalName": "gamepaused",
+      "newName": "3\""
+    },
+    {
+      "originalName": "turn_right",
+      "newName": "!\""
+    },
+    {
+      "originalName": "spacekeyForPlayAgainListener",
+      "newName": "4\""
+    },
+    {
+      "originalName": "pausetimer",
+      "newName": "\u003c"
+    },
+    {
+      "originalName": "replayCompletedGame",
+      "newName": "%\""
+    },
+    {
+      "originalName": "currentLevel",
+      "newName": ";\""
+    },
+    {
+      "originalName": "resetFlags",
+      "newName": "#!"
+    },
+    {
+      "originalName": "rposy",
+      "newName": "9#"
+    },
+    {
+      "originalName": "mcPlayClickedListener",
+      "newName": "@"
+    },
+    {
+      "originalName": "bike",
+      "newName": "0"
+    },
+    {
+      "originalName": "rposx",
+      "newName": "4#"
+    },
+    {
+      "originalName": "containermc",
+      "newName": "5"
+    },
+    {
+      "originalName": "Bike",
+      "newName": "4!"
+    },
+    {
+      "originalName": "isColliding",
+      "newName": "6\""
+    },
+    {
+      "originalName": "onEngineStartedSoundPlayed",
+      "newName": "?\""
+    },
+    {
+      "originalName": "isSoundOn",
+      "newName": ",!"
+    },
+    {
+      "originalName": "frame100",
+      "newName": "%"
+    },
+    {
+      "originalName": "bikemaxspeed",
+      "newName": "1\""
+    },
+    {
+      "originalName": "_t",
+      "newName": "\u003c\""
+    },
+    {
+      "originalName": "replayGameListener",
+      "newName": "+"
+    },
+    {
+      "originalName": "min",
+      "newName": "]"
+    },
+    {
+      "originalName": "back",
+      "newName": "@!"
+    },
+    {
+      "originalName": "instruction_btn",
+      "newName": "\u0027#"
+    },
+    {
+      "originalName": "restartTimer",
+      "newName": "7!"
+    },
+    {
+      "originalName": "RBClapping",
+      "newName": "6!"
+    },
+    {
+      "originalName": "t",
+      "newName": "6#"
+    },
+    {
+      "originalName": "rbEngineStarting",
+      "newName": "\u0027"
+    },
+    {
+      "originalName": "back_speed",
+      "newName": "-"
+    },
+    {
+      "originalName": "speed_decay",
+      "newName": "6"
+    },
+    {
+      "originalName": "RBEngineStarting",
+      "newName": "]\""
+    },
+    {
+      "originalName": "totalScore",
+      "newName": "2"
+    },
+    {
+      "originalName": "congrats_53",
+      "newName": "[!"
+    },
+    {
+      "originalName": "acceleration",
+      "newName": "8#"
+    },
+    {
+      "originalName": "hud_mc",
+      "newName": "+!"
+    },
+    {
+      "originalName": "playEngineRunningSound",
+      "newName": "7\""
+    },
+    {
+      "originalName": "levelcompleted_mc",
+      "newName": "2#"
+    },
+    {
+      "originalName": "lifesRemaining",
+      "newName": "5!"
+    },
+    {
+      "originalName": "enter_frame",
+      "newName": "##"
+    },
+    {
+      "originalName": "totalTimeElapsed",
+      "newName": "^\""
+    },
+    {
+      "originalName": "life_bike_49",
+      "newName": "8!"
+    },
+    {
+      "originalName": "mcDebug",
+      "newName": "`"
+    },
+    {
+      "originalName": "replayGameCompletedClickedListener",
+      "newName": "["
+    },
+    {
+      "originalName": "onLoaded",
+      "newName": "!"
+    },
+    {
+      "originalName": "mmmn_2",
+      "newName": "0!"
+    },
+    {
+      "originalName": "instruction_mc",
+      "newName": "?"
+    },
+    {
+      "originalName": "init",
+      "newName": "1!"
+    },
+    {
+      "originalName": "RBCrashing",
+      "newName": "\u003e!"
+    },
+    {
+      "originalName": "backToPlayScreenListener",
+      "newName": "-!"
+    },
+    {
+      "originalName": "levelNameArray",
+      "newName": "#\""
+    },
+    {
+      "originalName": "clappingSoundChannel",
+      "newName": "9\""
+    },
+    {
+      "originalName": "playmc",
+      "newName": "\u003d!"
+    },
+    {
+      "originalName": "RBEngineRunning",
+      "newName": "\u003e\""
+    },
+    {
+      "originalName": "resetPos",
+      "newName": "\u003e"
+    },
+    {
+      "originalName": "gameover_mc",
+      "newName": "9!"
+    },
+    {
+      "originalName": "skiplevel_mc",
+      "newName": "8"
+    },
+    {
+      "originalName": "spacekeyUpListener",
+      "newName": "5\""
+    },
+    {
+      "originalName": "Main",
+      "newName": "?!"
+    },
+    {
+      "originalName": "game_level_1_fla",
+      "newName": " \""
+    },
+    {
+      "originalName": "rotation_step",
+      "newName": "^!"
+    },
+    {
+      "originalName": "getAlphaMap",
+      "newName": "`!"
+    },
+    {
+      "originalName": "replayGame",
+      "newName": "7"
+    },
+    {
+      "originalName": "gameTimeCounter",
+      "newName": "7#"
+    },
+    {
+      "originalName": "brake",
+      "newName": "0\""
+    },
+    {
+      "originalName": "getCollisionRect",
+      "newName": "9"
+    },
+    {
+      "originalName": "mcInstructionsClickedListener",
+      "newName": "\""
+    },
+    {
+      "originalName": "keyUpListener",
+      "newName": "\"!"
+    },
+    {
+      "originalName": "isThrottleReleased",
+      "newName": " !"
+    },
+    {
+      "originalName": "rbEngineRunning",
+      "newName": "-#"
+    },
+    {
+      "originalName": "onProgress",
+      "newName": "@\""
+    },
+    {
+      "originalName": "audioToggleListener",
+      "newName": "[\""
+    },
+    {
+      "originalName": "soundchannel",
+      "newName": "\u003c#"
+    },
+    {
+      "originalName": "audio_50",
+      "newName": ";"
+    },
+    {
+      "originalName": "totalTimeRemaining",
+      "newName": "#"
+    },
+    {
+      "originalName": "removeObjectAndListeners",
+      "newName": "!#"
+    },
+    {
+      "originalName": "sec",
+      "newName": "\"#"
+    },
+    {
+      "originalName": "bikeposArray",
+      "newName": "3#"
+    },
+    {
+      "originalName": "addListeners",
+      "newName": "\u0027\""
+    },
+    {
+      "originalName": "turn_left",
+      "newName": "\u0026"
+    },
+    {
+      "originalName": "elapsed_mc",
+      "newName": ";!"
+    }
+  ]
+}
